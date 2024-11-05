@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Testimonials grid section Code snippet URL here](https://your-solution-url.com)
-- Live Site URL: [Testimonials grid section website URL here](https://your-live-site-url.com)
+- Solution URL: [Testimonials grid section Code snippet URL here](https://github.com/Top-Trekx-Im-gvp-98/Testimonial-grid-Section)
+- Live Site URL: [Testimonials grid section website URL here](https://testimonial-grid-section-im-gvp-98.netlify.app/)
 
 ## My process
 
